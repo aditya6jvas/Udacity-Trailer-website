@@ -11,31 +11,31 @@ usual_suspects = mvie.Movie("The Usual Suspects",
 sixth_sense = mvie.Movie("Sixth Sense",
                         "Child psychologist, starts treating a young boy who acts as a medium of communication between Crowe and a slew of unhappy spirits.",
                         "http://www.impawards.com/1999/posters/sixth_sense_ver1.jpg",
-                        "https://www.youtube.com/watch?v=VG9AGf66tXM") # First Movie
+                        "https://www.youtube.com/watch?v=VG9AGf66tXM") # Second Movie
 
 
 perks_ob_wallflower = mvie.Movie("The Perks of being wallflower",
                                 "Charlie, a 15-year-old introverted bright Pittsburgh boy, enters high school and is nervous about his new life. He is befriended by his seniors who show him the way to the real world.",
                                 "https://images-na.ssl-images-amazon.com/images/M/MV5BMzIxOTQyODU1OV5BMl5BanBnXkFtZTcwMDQ4Mjg4Nw@@._V1_UX182_CR0,0,182,268_AL_.jpg",
-                                "https://www.youtube.com/watch?v=XO3-PumyjoI") # First Movie
+                                "https://www.youtube.com/watch?v=XO3-PumyjoI") # Third Movie
 
 
 fight_club = mvie.Movie("Fight Club",
                         "Discontented with his capitalistic lifestyle, a white-collared insomniac forms an underground fight club with Tyler, a careless soap salesman. The project soon spirals down into something sinister.",
                         "http://www.gstatic.com/tv/thumb/movieposters/23069/p23069_p_v8_ad.jpg",
-                        "https://www.youtube.com/watch?v=BdJKm16Co6M") # First Movie
+                        "https://www.youtube.com/watch?v=BdJKm16Co6M") # Fourth Movie
 
 
 pursuit_of_happiness = mvie.Movie("The Pursuit of Happiness",
                                 "Chris Gardner takes up an unpaid internship in a brokerage firm after he loses his life's earnings selling a product he invested in. His wife leaves him and he is left with the custody of his son.",
                                 "http://www.gstatic.com/tv/thumb/movieposters/162523/p162523_p_v8_ad.jpg",
-                                "https://www.youtube.com/watch?v=89Kq8SDyvfg") # First Movie
+                                "https://www.youtube.com/watch?v=89Kq8SDyvfg") # Fifth Movie
 
 
 wolf_of_wallstreet = mvie.Movie("The wolf og wall street",
                                 "Introduced to life in the fast lane through stockbroking, Jordan Belfort takes a hit after a Wall Street crash. He teams up with Donnie Azoff, cheating his way to the top as his relationships slide.",
                                 "http://sociologylegacy.pbworks.com/f/1426548534/6738.jpg",
-                                "https://www.youtube.com/watch?v=idAVRvQeYAE") # First Movie
+                                "https://www.youtube.com/watch?v=idAVRvQeYAE") # Sixth Movie
 
 
 
